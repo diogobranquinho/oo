@@ -1,4 +1,4 @@
-from funcionario import Funcionario
+from Funcionario import Funcionario
 from Gerente import Gerente
 
 obj1 = Funcionario('Ana',  'anapaula@teste.com', '189965656', 40.6)
